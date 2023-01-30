@@ -18,6 +18,6 @@ Steps:
 3. Create `Shared/Supporting Files/Secrets.swift` with the following contents:
    ```swift
    struct Secrets {
-       static let infura = "YOUR INFURA PROJECT ID HERE"
+       static let infura = "8ca352ee9db5443cb5be86bd5d60fdc4"
    }
    ```
